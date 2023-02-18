@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- Hi, I am Umer. 
+- I am Umer. 
 - I'm a passionate data scientist 🤓
 - I specialize in Python programming 🐍
 - Interested in computer vision ✨ and natural language 💻.

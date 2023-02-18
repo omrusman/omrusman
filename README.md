@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - I am Umer. 
 - I'm a passionate data scientist 🤓
 - I specialize in Python programming 🐍
-- Interested in computer vision ✨ and natural language 💻.
+- Interested in computer vision ✨ and natural language processing 💻.
 - I'm here to contribute to open source projects. Hope to collaborate with you soon! 🤩
